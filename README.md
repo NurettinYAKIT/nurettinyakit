@@ -3,9 +3,10 @@
 I'm Nurettin Onur YAKIT.
 
 - 💻 &nbsp; Coding **Java** everyday 
+- 💻 &nbsp; Writing **Python** weekly
 - 🌱 &nbsp; I’m currently learning **Unity** for fun
 - 💬 &nbsp; Ask me about anything on my [issues page](https://github.com/NurettinYAKIT/nurettinyakit/issues)
-- 📫 &nbsp; How to reach me [twitter](https://twitter.com/nurettinyakit)
+- 📫 &nbsp; You can find me on [twitter](https://twitter.com/nurettinyakit)
 
 ### 📈 GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nurettinyakit)
