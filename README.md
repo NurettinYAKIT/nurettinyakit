@@ -4,13 +4,14 @@ I'm Nurettin Onur YAKIT.
 
 - 💻 &nbsp; Coding **Java** everyday 
 - 💻 &nbsp; Writing **Python** weekly
-- 🌱 &nbsp; I’m currently learning **Unity** for fun
+- 🌱 &nbsp; I’m currently learning <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" width="32" height="32" alt="Unity" /> for fun
 - 💬 &nbsp; Ask me about anything on my [issues page](https://github.com/NurettinYAKIT/nurettinyakit/issues)
 - 📫 &nbsp; You can find me on [twitter](https://twitter.com/nurettinyakit)
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nurettinyakit)
 
+![Vercel Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nurettinyakit&layout=compact)
 
 ### 🧑‍💻 Tech I like
 
