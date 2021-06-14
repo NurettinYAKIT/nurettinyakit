@@ -20,7 +20,7 @@ I'm Nurettin Onur YAKIT.
 <table>
   <tr>
     <td align="center" width="96">
-      Java
+      <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
     </td>
     <td align="center" width="96">
       Spring
