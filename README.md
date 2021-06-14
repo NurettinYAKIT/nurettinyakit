@@ -46,13 +46,14 @@ I'm Nurettin Onur YAKIT.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NurettinYAKIT&color=blue&style=flat-square&label=visitors" align="left" />
+<img src="https://komarev.com/ghpvc/?username=NurettinYAKIT&color=blue&style=flat-square&label=visitors" />
 </p>
 
 ## Support me
 <p align="center">
   <a href="https://www.buymeacoffee.com/nurettinyakit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" height="60px" width="217px"></a>
 </p>
+<br>
 <!--
 **NurettinYAKIT/nurettinyakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
