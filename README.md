@@ -21,7 +21,7 @@ I'm Nurettin Onur YAKIT.
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FiRbRmhJ_java-png-icon-clipart%2F&psig=AOvVaw0Ftqgq7ugEVpwlEAkUOPBb&ust=1623744577620000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDziovWlvECFQAAAAAdAAAAABAK" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
