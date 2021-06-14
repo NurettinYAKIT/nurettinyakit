@@ -23,22 +23,22 @@ I'm Nurettin Onur YAKIT.
       <br>Java
     </td>
     <td align="center" width="96">
-      <br>Spring
+      Spring
     </td>
     <td align="center" width="96">
-      <br>Docker
+      Docker
     </td>
     <td align="center" width="96">
-      <br>AWS
+      AWS
     </td>
     <td align="center" width="96">
-      <br>MongoDB
+      MongoDB
     </td>
     <td align="center" width="96">
-      <br>C#&nbsp;(Unity)
+      C#&nbsp;(Unity)
     </td>
     <td align="center" width="96">
-      <br>Python
+      Python
     </td>
   </tr>
 </table>
