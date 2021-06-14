@@ -45,9 +45,9 @@ I'm Nurettin Onur YAKIT.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 </p>
 
-<br>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=NurettinYAKIT&color=blue&style=flat-square&label=visitors" align="left" />
-<br>
+</p>
 
 ## Support me
 <p align="center">
