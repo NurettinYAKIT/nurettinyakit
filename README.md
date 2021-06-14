@@ -20,7 +20,7 @@ I'm Nurettin Onur YAKIT.
 <table>
   <tr>
     <td align="center" width="96">
-      <br>Java
+      Java
     </td>
     <td align="center" width="96">
       Spring
