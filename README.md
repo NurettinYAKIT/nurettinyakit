@@ -8,12 +8,21 @@ I'm Nurettin Onur YAKIT.
 - 💬 &nbsp; Ask me about anything on my [issues page](https://github.com/NurettinYAKIT/nurettinyakit/issues)
 - 📫 &nbsp; You can find me on [twitter](https://twitter.com/nurettinyakit)
 
+
 ### 📈 GitHub Stats  
+
+<!-- Most used Languages
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nurettinyakit)
+-->
 
 <!-- Most used Languages
 ![Vercel Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nurettinyakit&layout=compact)
 -->
+
+ <a href="https://github.com/NurettinYAKIT">
+    <img width="55%" align="right" alt="Onur's github stats" src="https://github-readme-stats.vercel.app/api?username=nurettinyakit&show_icons=true&hide_border=true" />
+  </a>
+
 
 ### 🧑‍💻 Tech I like
 
