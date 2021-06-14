@@ -33,31 +33,31 @@ I'm Nurettin Onur YAKIT.
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://www.pikpng.com/pngl/m/430-4307964_docker-and-kubernetes-logos-point-of-sales-icon.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="amazonwebservices" />
+        <img src="https://www.pikpng.com/pngl/m/167-1678403_aws-logo-amazon-web-services-icon-clipart.png" width="48" height="48" alt="amazonwebservices" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://www.pikpng.com/pngl/m/511-5114894_mongodb-png-clipart.png" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://www.pikpng.com/pngl/m/5-54386_unity-logo-sq-made-by-unity-png-clipart.png" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Unity)
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.pikpng.com/pngl/m/230-2301381_code-monsters-python-language-clipart.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
