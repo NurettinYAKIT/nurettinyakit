@@ -21,7 +21,7 @@ I'm Nurettin Onur YAKIT.
 <p>
  
  <a href="https://github.com/NurettinYAKIT">
-    <img width="55%" align="right" alt="Onur's github stats" src="https://github-readme-stats.vercel.app/api?username=nurettinyakit&show_icons=true" />
+    <img width="55%" align="right" alt="Onur's github stats" src="https://github-readme-stats.vercel.app/api?username=nurettinyakit&show_icons=true&hide_border=true" />
   </a>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
