@@ -11,7 +11,9 @@ I'm Nurettin Onur YAKIT.
 ### 📈 GitHub Stats  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nurettinyakit)
 
+<!-- Most used Languages
 ![Vercel Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nurettinyakit&layout=compact)
+-->
 
 ### 🧑‍💻 Tech I like
 
@@ -36,10 +38,10 @@ I'm Nurettin Onur YAKIT.
 </p>
 
 <br>
-<a href="https://www.buymeacoffee.com/nurettinyakit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" height="60px" width="217px"></a>
-
 <img src="https://komarev.com/ghpvc/?username=NurettinYAKIT&color=blue&style=flat-square&label=visitors" align="left" />
+<br>
 
+<a href="https://www.buymeacoffee.com/nurettinyakit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" height="60px" width="217px"></a>
 
 <!--
 **NurettinYAKIT/nurettinyakit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
