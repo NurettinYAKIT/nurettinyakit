@@ -3,7 +3,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/nurettinyakit/.github/master/.resources/git-header.svg" />
 
-I'm Nurettin Onur YAKIT.
+I'm N. Onur YAKIT.
 
 - 🌱 &nbsp; I’m currently learning <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" width="32" height="32" alt="Unity" /> for fun
 - 💻 &nbsp; Coding **Java** everyday 
