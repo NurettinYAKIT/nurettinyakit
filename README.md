@@ -7,7 +7,7 @@ Solutions Engineer
 I’m working as a senior solutions engineer/tech lead in Jumbo Supermarket we are basically working as a large-scale e-commerce system. I’ve also got various different experiences on a wide range of projects and companies because I worked as a senior java developer for more than 8 years as a consultant/vendor. Primarily for finance/banking & insurance companies. I’ve worked as a java developer, team leader, architect, and tech lead. In total, I’ve 13+ years of experience in software.
 
 * 🌍  I'm based in Netherlands
-* 💻  I'm Coding **Java** everyday & **Python** weekly
+* 💻  I'm coding **Java** everyday && **Python** weekly
 * 🚀  I'm currently working on [Jumbo](http://www.jumbo.com)
 * 🧠  I'm learning Unity
 * 🤝  I'm open to collaborating on Microservices
