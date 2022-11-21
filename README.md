@@ -1,15 +1,22 @@
-### Hi there! 👋
+Hi 👋 My name is N. Onur YAKIT
+==============================
+
+Solutions Engineer
+------------------
+
+I’m working as a senior solutions engineer/tech lead in Jumbo Supermarket we are basically working as a large-scale e-commerce system. I’ve also got various different experiences on a wide range of projects and companies because I worked as a senior java developer for more than 8 years as a consultant/vendor. Primarily for finance/banking & insurance companies. I’ve worked as a java developer, team leader, architect, and tech lead. In total, I’ve 13+ years of experience in software.
+
+* 🌍  I'm based in Netherlands
+* 💻  I'm Coding **Java** everyday & **Python** weekly
+* 🚀  I'm currently working on [Jumbo](http://www.jumbo.com)
+* 🧠  I'm learning Unity
+* 🤝  I'm open to collaborating on Microservices
+* ⚡  I love muay thai & I'm eager to learn jiu-jitsu
+
+
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/nurettinyakit/.github/master/.resources/git-header.svg" />
-
-I'm N. Onur YAKIT.
-
-- 🌱 &nbsp; I’m currently learning <img src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" width="32" height="32" alt="Unity" /> for fun
-- 💻 &nbsp; Coding **Java** everyday 
-- 💻 &nbsp; Writing **Python** weekly
-- 💬 &nbsp; Ask me about anything on my [issues page](https://github.com/NurettinYAKIT/nurettinyakit/issues)
-- 📫 &nbsp; You can find me on [twitter](https://twitter.com/nurettinyakit)
 
 <!-- Most used Languages
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nurettinyakit)
